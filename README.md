@@ -1,5 +1,5 @@
 # Leetcode
-使用Python刷Leetcode
+使用 Python 刷 Leetcode
 
 1. Two Sum
 2. Add Two Numbers
